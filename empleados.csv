@@ -1,0 +1,7 @@
+_class,_id,anotacionesEmp,apellidosEmp,areaEmp,cargoEmp,celularEmp,contrasenaEmp,direccionEmp,emailEmp,fechaContratoEmp,fechaNacimientoEmp,nombresEmp,numeroContratoEmp,permisosEmp
+com.mintic.boutique.modelo.empleadosModelo,10369629,nunguna,GRAJALES CASTAÑEDA,PRODUCCION,COORDINADOR,350456,qwert*,cll 25 -60,zzz@zzz,2021-01-01,1982-12-24,SANDRA MILENA,A-233,COORDINADOR
+com.mintic.boutique.modelo.empleadosModelo,167308,si,NARANJO OBANDO,VENTAS,EMPLEADO,320123,asdf*,cr 80 - 20,xxx@xxx,2020-01-01,1980-12-31,JEYSSON ANDRES,A-456,USUARIO
+com.mintic.boutique.modelo.empleadosModelo,10650687,no ,NARANJO IDARRAGA,RECURSOS HUMANOS,SECRETARIO,310123,123as45*,tr 30 -45,vvv@vvv,2019-02-28,1975-10-11,JHEYS HAROL,A-1235,COORDINADOR
+com.mintic.boutique.modelo.empleadosModelo,1084153,pasa,PINILLA MURCIA,SEGURIDAD,COORDINADOR,311456,asasd+++,cll 50 - 50,nnn@nnn,2021-06-30,1970-08-09,WILBER ERIBERTO,A-4546,COORDINADOR
+com.mintic.boutique.modelo.empleadosModelo,1058527,sancionado,HENAO GARCIA,MENSAJERIA,MENSAJERO,322987,sdasd+,av 68 - 69,mmm@mmm,2018-08-25,1990-01-30,JIMMY,A-789,USUARIO
+com.mintic.boutique.modelo.empleadosModelo,1018089,felicitado,BETANCUR DIAZ,GERENCIA,GERENTE,300456,sadsad*---,cr 42 -69,sss@sss,2010-01-01,1964-01-15,JULIAN ALBERTO,A-4444,ADMINISTRADOR

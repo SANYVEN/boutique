@@ -1,0 +1,7 @@
+_class,_id,apellidosCle,celularCle,contrasenaCle,direccionCle,emailCle,fechaRegistroCle,nombresCle
+com.mintic.boutique.modelo.clientesModelo,80139,MORENO,320123,asd123,calle 123,aaa@aaa,2020-12-12,OMAR
+com.mintic.boutique.modelo.clientesModelo,52981,HERNANDEZ,350456,qwe456,Cr 20 - 01,bbb@bbb,2019-03-10,SANDRA
+com.mintic.boutique.modelo.clientesModelo,12345,PAZ,320789,poi789,Calle 45 - 01,ccc@ccc,2021-01-02,ALEX
+com.mintic.boutique.modelo.clientesModelo,43210,MOLINA,350477,lkj456,av 26 - 30,ddd@ddd, 2018-05-06,LENCY
+com.mintic.boutique.modelo.clientesModelo,43211,MESA,350780,fgh465,Tra 30 - 40,eee@eee,2017-12-21,ADOLFO
+com.mintic.boutique.modelo.clientesModelo,45678,BARRENECHE,320256,vbn456,calle 20 - 21,fff@fff, 2020-12-31 ,FABIO
